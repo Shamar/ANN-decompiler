@@ -1,0 +1,5 @@
+This essay and the all the code distribuited with it is licensed
+to you under the terms of the Hacking License (see HACK.txt).
+
+The MNIST dataset has been copied in the repository as requested by the maintainers.
+See http://yann.lecun.com/exdb/mnist/ (also archived at https://archive.is/OcgUi)
